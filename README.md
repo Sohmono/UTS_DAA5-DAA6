@@ -9,11 +9,6 @@
 
 
 
+Link video : https://youtu.be/gJsd_Ivr7_k
 
-
-CARA PENGUMPULAN : 
-FORK UTS DI GITHUB
-PUSH CODINGAN DI GITHUB
-
-FORMAT REPOSITORY UTS_DAA5_NIM
-
+Link linked list : https://www.teachmesoft.com/2019/03/single-linked-list-c-disertai-contoh.html
